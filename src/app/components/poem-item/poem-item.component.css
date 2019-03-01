@@ -1,0 +1,10 @@
+.poem {
+    background: #f4f4f4;
+    padding: 10px;
+    border-bottom: 1px #ccc dotted;
+    font-size: 20px;
+  }
+  
+  .is_liked {
+    color: deeppink;
+  }

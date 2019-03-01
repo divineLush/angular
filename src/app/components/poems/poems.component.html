@@ -1,0 +1,6 @@
+<app-poem-item 
+    *ngFor="let poem of poems" 
+    [poem]="poem"
+    (deletePoem)="deletePoem($event)" 
+>
+</app-poem-item>
